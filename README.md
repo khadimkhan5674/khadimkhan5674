@@ -38,7 +38,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadimkhan5674&layout=compact&theme=dark" alt=khadimkhan5674 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=khadimkhan5674&show_icons=true&locale=en&theme=dark" alt="khadimkhan5674" /></p>
 
