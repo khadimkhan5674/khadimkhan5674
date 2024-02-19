@@ -1,7 +1,7 @@
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnaisannovel&psig=AOvVaw2d7u2QCY845V36ZgQaIzTe&ust=1708442054491000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjVzt_Yt4QDFQAAAAAdAAAAABAO" width="100%" />
 <h1 align="center">Hi 👋, I'm Khadim Khan</h1>
-<h3 align="center">Full Stack Developer From India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadimkhan5674&label=Profile%20views&color=0e75b6&style=flat" alt="khadimkhan5674" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khadimkhan5674&theme=dark_lover" alt="khadimkhan5674" /></a> </p>
