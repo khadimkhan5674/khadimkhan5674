@@ -1,5 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnaisannovel&psig=AOvVaw2d7u2QCY845V36ZgQaIzTe&ust=1708442054491000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjVzt_Yt4QDFQAAAAAdAAAAABAO" width="100%" />
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Khadim Khan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadimkhan5674&label=Profile%20views&color=0e75b6&style=flat" alt="khadimkhan5674" /> </p>
